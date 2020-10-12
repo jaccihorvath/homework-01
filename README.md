@@ -12,4 +12,5 @@ In this repository you will find refactored code for Horiseon. The marketing age
 
 ## Mock-Up
 
-The finished product can be deployed [here](https://jaccihorvath.gitlab.io/homework/01).
+The finished product can be deployed [here](/index.html).
+![Horiseon](/assets/images/Horiseon.png)
